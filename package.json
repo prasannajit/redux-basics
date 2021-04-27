@@ -1,0 +1,23 @@
+{
+  "name": "redux-basics",
+  "version": "1.0.0",
+  "description": "Redux without react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasannajit/redux-basics.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prasannajit/redux-basics/issues"
+  },
+  "homepage": "https://github.com/prasannajit/redux-basics#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
